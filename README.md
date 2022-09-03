@@ -1,6 +1,6 @@
 # Traffic-Sign-Recognition
 Traffic Sign Detection and Recognition with Deep Learning, CNNs, YOLOv3, and Keras
-This research project was conducted through Pioneer Academics under Susan Eileen Fox, DeWitt Wallace Professor and Chair of Mathematics,
+This research project was conducted under Susan Eileen Fox, DeWitt Wallace Professor and Chair of Mathematics,
 Statistics, and Computer Science, at Macalester College
 
 In this project, the classification model was trained using GTSRB data set and the recognition is trained by the GTSDB data set. Only the classification model is included.  
